@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, it's me, Matteo 👋
+
+A tech enthusiast with a knack for crafting and nurturing cutting-edge web applications.
+
+My journey so far has brought me from writing robust applications with modern front-end technologies to orchestrating serverless systems ensuring high scalability and performance 🚀.
+
+With a solid foundation in various tech stacks, I strive to leverage the best practices in delivering B2B and B2C solutions 💼. I'm comfortable working with cloud platforms like AWS, Azure, and GCP, harnessing their potential to optimize project deliverables 🌥️.
+
+Beyond code, I have a penchant for digital marketing and SEO, always keen on exploring the business dynamics to provide comprehensive product solutions 📈
+
+You can reach me on (Linkedin)[https://www.linkedin.com/in/matteobucci/] or visit my personal website, available as well on (Github)[https://github.com/matteobucci/matteo-bucci]
 
 <!--
 **matteobucci/matteobucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
