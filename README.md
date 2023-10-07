@@ -8,7 +8,7 @@ With a solid foundation in various tech stacks, I strive to leverage the best pr
 
 Beyond code, I have a penchant for digital marketing and SEO, always keen on exploring the business dynamics to provide comprehensive product solutions 📈
 
-You can reach me on (Linkedin)[https://www.linkedin.com/in/matteobucci/] or visit my personal website, available as well on (Github)[https://github.com/matteobucci/matteo-bucci]
+You can reach me on [Linkedin](https://www.linkedin.com/in/matteobucci/) or visit my personal website, available as well on [Github](https://github.com/matteobucci/matteo-bucci)
 
 <!--
 **matteobucci/matteobucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
